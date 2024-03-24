@@ -1,0 +1,27 @@
+{
+  "name": "rktech0078-aiwmd_number_guessing_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rktech0078/GI-AIWMD_Number_Guessing_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rktech0078/GI-AIWMD_Number_Guessing_Game/issues"
+  },
+  "homepage": "https://github.com/rktech0078/GI-AIWMD_Number_Guessing_Game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
